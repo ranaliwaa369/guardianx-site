@@ -1,5 +1,5 @@
 
-:root{--bg:#07080c;--bg2:#0e1118;--card:#121722;--line:#1f2736;--text:#e8edf5;--muted:#8b97ab;--accent:#6ee7c5}
+:root{--bg:#03060c;--bg2:#0e1118;--card:#121722;--line:#1f2736;--text:#e8edf5;--muted:#8b97ab;--accent:#6ee7c5}
 *{box-sizing:border-box}body{margin:0;font-family:"Avenir Next","Segoe UI",sans-serif;background:var(--bg);color:var(--text);line-height:1.55}
 .wrap{width:min(1120px,calc(100% - 36px));margin:0 auto}
 .site-header{position:sticky;top:0;background:rgba(7,8,12,.9);border-bottom:1px solid var(--line)}
